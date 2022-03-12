@@ -1,6 +1,6 @@
 # Microservices-NetflixOSS
 
-## Microservices-Netflix OSS
+## Tecnologías y herramientas utilizadas
 
 - Java 8
 - Apache Maven 3.8.1
